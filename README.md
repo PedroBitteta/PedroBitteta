@@ -1,6 +1,6 @@
-### Olá! Eu sou Pedro Bitteta !
+### Olá! Eu sou Pedro Bitteta ! 	:man_technologist:
 
--💡 Estudante de Análise e Desenvolvimento de Sistemas - Senai Suiço-Brasileira
+	-:man_student: Estudante de Análise e Desenvolvimento de Sistemas - Senai Suiço-Brasileira
 
 -📚 Atualmente estou estudando JavaScript orientado a objeto
 
