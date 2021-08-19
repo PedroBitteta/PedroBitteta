@@ -1,10 +1,12 @@
-### Olá! Eu sou Pedro Bitteta ! 	:man_technologist:
+### Olá! Eu sou Pedro Bitteta ! :man_technologist:
 
-	-:man_student: Estudante de Análise e Desenvolvimento de Sistemas - Senai Suiço-Brasileira
+-:man_student: Estudante de Análise e Desenvolvimento de Sistemas - Senai Suiço-Brasileira.
 
--📚 Atualmente estou estudando JavaScript orientado a objeto
+-📚 Aprendendo JavaScript Orientado a Objeto, Java Web Services.
 
--🔨 Busco oportunidades de ingressar na ára de Desenvolvimento front-end
+-:open_umbrella: Ferramentas de desenvolvimento: Visual Studio Code, Eclipse e GitHub.
+
+-🔨 Busco oportunidades de ingressar na ára de Desenvolvimento front-end.
 
  <div>
   <a href="https://github.com/PedroBitteta">
