@@ -2,11 +2,11 @@
 
 -:man_student: Estudante de Análise e Desenvolvimento de Sistemas - Senai Suiço-Brasileira.
 
--📚 Aprendendo JavaScript Orientado a Objeto, Java Web Services.
+-📚 Aprendendo JavaScript Orientado a Objeto, Java Web.
 
 -:open_umbrella: Ferramentas de desenvolvimento: Visual Studio Code, Eclipse e GitHub.
 
--🔨 Busco oportunidades de ingressar na ára de Desenvolvimento front-end.
+-🔨 Busco oportunidades de ingressar na ára de Desenvolvimento.
 
  <div>
   <a href="https://github.com/PedroBitteta">
