@@ -2,7 +2,7 @@
 
 -:man_student: Estudante de Análise e Desenvolvimento de Sistemas - Senai Suiço-Brasileira.
 
--📚 Aprendendo JavaScript Orientado a Objeto, Java Web.
+-📚 Aprendendo JavaScript e Java Web.
 
 -:open_umbrella: Ferramentas de desenvolvimento: Visual Studio Code, Eclipse e GitHub.
 
